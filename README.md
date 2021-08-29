@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🙌
-🎓 I’m an Open-Source enthusiast & a sophomore pursuing my Bachelors in Information Technology from Indira Gandhi Delhi Technical University for Women. </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology from Indira Gandhi Delhi Technical University for Women. </br>
 👨💻  I am passionate about App Dev, Web Dev, Machine Learning & I enjoy learning new things. </br>
 
 ### My Experiences 🙌

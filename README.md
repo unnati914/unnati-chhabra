@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">An open-source Contributor from India</h3>
+<h3 align="center">An IT undergrad at IGDTUW ,Web Developer and an Open-Source Contributor from India</h3>
 
 <p align="left"> <a href="https://twitter.com/unnati_twts" target="blank"><img src="https://img.shields.io/twitter/follow/unnati_twts?logo=twitter&style=for-the-badge" alt="unnati_twts" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Redux, Firebase**
 
-- 💬 Ask me about **react, js, open source, ML, DL, AI, Android**
+- 💬 Ask me about **React.Js, Java, open source, ML, DL, AI, Android**
 
 - 📫 How to reach me **chhabraunnati324@gmail.com**
 

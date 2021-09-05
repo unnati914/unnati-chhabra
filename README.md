@@ -1,7 +1,9 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I am Unnati Chhabra!
+### Hi there, I'm Unnati 👋
+
+
 
 <a href="https://www.linkedin.com/in/unnati-chhabra-/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Unnati_twts">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,6 +16,15 @@
 </a>
 
 <br />
+
+- 🔭 My project just launched on Google Developers page : [Care4ther][https://devlibrary.withgoogle.com/products/ml/repos/unnati914-Care4ther-]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 Hire me for internships/full-time
+- 🥅 2021 Goals: Contributing to open source projects, Practicing DSA 
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
+
+
 
 ### About Me 🙌
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology from Indira Gandhi Delhi Technical University for Women. </br>

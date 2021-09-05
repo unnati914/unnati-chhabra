@@ -19,12 +19,12 @@
 
 
  
-- 🌱 I’m currently learning everything 🤣
+
 - 👯 Hire me for internships/full-time
 - 🥅 2021 Goals: Contributing to open source projects, Practicing DSA 
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 🔭 Pronouns- she/her/bro 
-
+- 🌱 I’m currently learning everything 🤣
 
 
 ### About Me 🙌

@@ -17,7 +17,9 @@
 
 <br />
 
-- 🔭 My project just launched on Google Developers page : [Care4ther][https://devlibrary.withgoogle.com/products/ml/repos/unnati914-Care4ther-]!
+
+
+- 🔭 My project just launched on Google Developers page : [Care4ther][https://devlibrary.withgoogle.com/products/ml/repos/unnati914-Care4ther-]
 - 🌱 I’m currently learning everything 🤣
 - 👯 Hire me for internships/full-time
 - 🥅 2021 Goals: Contributing to open source projects, Practicing DSA 

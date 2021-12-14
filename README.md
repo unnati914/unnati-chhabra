@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
 <h3 align="center">An IT undergrad at IGDTUW ,Web Developer and an Open-Source Contributor from India</h3>
 
-<p align="left"> <a href="https://twitter.com/whyy_unnatiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/whyy_unnatiiiii?logo=twitter&style=for-the-badge" alt="unnati_twts" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Unnati_twts target="blank"><img src="https://img.shields.io/twitter/follow/Unnati_twts?logo=twitter&style=for-the-badge" alt="unnati_twts" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 

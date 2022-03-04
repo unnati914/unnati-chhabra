@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
 <h3 align="center">An IT undergrad at IGDTUW ,Web Developer and an Open-Source Contributor from India</h3>
 
-<p align="left"> <a href="https://twitter.com/kajukatli123 target="blank"><img src="https://img.shields.io/twitter/follow/kajukatli123?logo=twitter&style=for-the-badge" alt="kajukatli123" /></a> </p>
+<p align="left"> <a href="https://twitter.com/unnati_twts target="blank"><img src="https://img.shields.io/twitter/follow/unnati_twts?logo=twitter&style=for-the-badge" alt="kajukatli123" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dw_unnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnati_twts" height="30" width="40" /></a>
+<a href="https://twitter.com/unnati_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unnati_twts" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/unnati-chhabra-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/unnati-chhabra-/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codxcryptcommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codxcryptcommunity" height="30" width="40" /></a>
 </p>

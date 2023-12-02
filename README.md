@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati</h1>
-<h3 align="center">An IT undergrad at IGDTUW ,Web Developer and an Open-Source Contributor from India</h3>
+<h3 align="center">A Software Engineer ,Web Developer and an Open-Source Contributor from India</h3>
 
 <p align="left"> <a href="https://twitter.com/unnati_twts><img src="https://img.shields.io/twitter/follow/unnati_twts?logo=twitter&style=for-the-badge" alt="kajukatli123" /></a> </p>
 
